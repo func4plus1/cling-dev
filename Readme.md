@@ -1,4 +1,4 @@
-To work with PyTorch add to top cell:
+To work with LibTorch add to top cell:
 
 #pragma cling load("/home/jovyan/libtorch/lib/libc10.so")
 #pragma cling load("/home/jovyan/libtorch/lib/libtorch.so")
